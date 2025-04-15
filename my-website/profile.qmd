@@ -48,6 +48,7 @@ Here are some snapshots of the amazing people and memories that keep me grounded
 <img src="tet_photo.jpg" alt="Tet celebration" style="width:100%; border-radius: 12px;" />
 
 </div>
+</div>
 
 ---
 
@@ -63,6 +64,7 @@ Whether I’m skiing in the winter, exploring art, or traveling to new places, I
 <img src="dc_trip.jpg" alt="Washington D.C. trip" style="width:100%; border-radius: 12px;" />
 <img src="fall_hike.jpg" alt="Hiking in fall" style="width:100%; border-radius: 12px;" />
 
+</div>
 </div>
 
 ---
